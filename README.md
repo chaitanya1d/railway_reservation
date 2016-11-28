@@ -1,5 +1,5 @@
 # railway_reservation
-this is a simple project for railway reservation using php
+this is a simple project for railway reservation using php and my sql
 
 
 hi guys this is a simple project on railway reservation system.
