@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+/*Home Page*/
+.back{
+	background:#000000;
+	align-content:center;
+}
+.main{
+	width:1000px;
+	height:900px;
+	background:#252839;
+	margin-left:10%;
+
+}
+.header{
+	width: inherit;
+	height: 100px;
+	/*background: #677077;*/
+
+}
+.logoname{
+	width: auto;
+	height:auto;
+	color:#f2b632;
+	text-align: center;
+	padding-top:10px;
+}
+.navigation{
+	height:800px;
+	width:200px;
+	margin-left:10px;
+	float:left;
+}
+.login{
+	width:60px;
+	height:20px;
+	background:#f2b632;
+	float:right;
+	color:#000000;
+	text-align:center;
+	display:block;
+	border-radius:5px;
+	margin-top:-75px;
+	margin-right:100px;
+}
+.signup{
+	width:60px;
+	height:20px;
+	background:#f2b632;
+	float:right;
+	color:#000000;
+	text-align:center;
+	display:block;
+	border-radius:5px;
+	margin-top:-75px;
+	margin-right:20px;
+}
+.menu{
+	width:inherit;
+	height:20px;
+	background:#f2b632;
+	float:left;
+	color:#000000;
+	text-align:center;
+	display:block;
+	border-radius:50px;
+	margin-top:50px;
+}
+
+.Work{
+	height:780px;
+	width:730px;
+	/*background:#677077;*/
+	margin:10px;
+	float:right;
+	color:#eae9e8;
+}
+.form{
+	height:auto;
+	width:auto;
+	/*background:#677077;*/
+	float:left;
+	color:#f2b632;
+
+}
